@@ -1,2 +1,2 @@
-# profile
+# Profile
 This is my Resume
